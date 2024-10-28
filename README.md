@@ -1,1 +1,1 @@
-# JPEG-like-Image-Compression-Using-Discrete-Cosine-Transform
+This project implements a JPEG-like image compression technique that reduces psycho-visual redundancy through the use of Discrete Cosine Transform (DCT). The compression is applied to the Y, Cb, and Cr channels of the image, followed by quantization using standard matrices. After inverse DCT reconstruction, the method achieves a Mean Squared Error (MSE) of 256.94 and a Peak Signal-to-Noise Ratio (PSNR) of 24.03.
